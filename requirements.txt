@@ -1,0 +1,2 @@
+whisper~=1.1.10
+moviepy~=2.1.2
